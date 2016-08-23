@@ -3,3 +3,5 @@ What does this mean 3
 Bug001 is fixed
 
 Bug002 is fixed
+
+Bug003 is fixed
